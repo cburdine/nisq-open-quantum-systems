@@ -1,5 +1,5 @@
 # nisq-open-quantum-systems
-A Jupyter Notebook and Python codebase repository for the paper "Efficient Simulation of Open Quantum Systems on NISQ Devices" 
+A Jupyter Notebook and Python codebase repository for the simulation of open quantum systems.
 
 ---
 
@@ -23,6 +23,8 @@ jupyter-notebook .
 in this directory.
 
 ## Getting Started
+
+To get started, it is recommeneded that you take a look at the "Damped QHO Demo.ipynb" notebook.
 
 ## Running Quantum Computation Experiments
 
